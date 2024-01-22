@@ -36,7 +36,6 @@ data = [bil1, bil2, bil3]
 list.sort(data)
 print("Data dari terkecil :", data)
 ```
-Penjelasan
 `list.sort()` digunakan untuk mengurutkan elemen-elemen dalam sebuah list secara in-place, yang berarti list asli akan diubah dan tidak ada objek list baru yang dibuat
 
 #### Tampilan output
